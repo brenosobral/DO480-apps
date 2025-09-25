@@ -1,4 +1,4 @@
 Kind: Kustomization
 bases:
-- ../../base
-namePrefix:prod-
+  - ../../base
+namePrefix: prod-
