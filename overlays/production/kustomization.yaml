@@ -1,4 +1,0 @@
-Kind: Kustomization
-bases:
-  - ../../base
-namePrefix: prod-
